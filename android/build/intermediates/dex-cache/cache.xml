@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_07980e53dc9cd7c5fb3bb9cb7a151e29247ca4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_6e775ec00f08f601ca3c8ba8bb77a2526859a685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1fa9ce75fa4453aee7ef16c6aaa0249ff5f5e3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_48e2488b2c324ca7814f90a73cba28200de820fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_42ca7d4a2a9254795bc7956b5f2ceca93ff2faa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_4f2a433251afcf93d86541ba7c481f7fd1de7c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7ec171e3df774174fd97e8650b50609fc0c4c258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_19d55212a72d5f4d33205598a41c3cb715ac918c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_7ec815ae2b3ca83ab74516b9b20935193a315d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/ReactNavitationMobxExample/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f32d248ec690bd1fca0677ed1ce2fcc993ec0b9">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/ReactNavitationMobxExample-react-native-vector-icons-unspecified_04e1a4dcbf5a30a9ff58c659826a467d2a743e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.4_deabab0207c1c165be9474e7e92df7965ac77c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_520d2d4921faad4b81941508ec843f53b164ca98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_2e3798d9a5c4d6c6384eeee03ac79725e244a3ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_d5397e97b7aec6af5fbd2f8a5b076cf4e09a650e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_8e31abfbb916e4e2c5349450bf7ec2875621192e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_50fc8d8ff14c536aae537a8ffe308c9c6c482681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_fa3fec0f0f5fe48854651bcc5089de054298f41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_da328dee2754e819c57b3a7951c23f2124a524af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_75e62a153964cb2c49395b9f97cc16144e4bd805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_484dd5beb1e4a4413413aff37292a27158620175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_2bcb0af7178453aa85c8c84198c70c42b75a64ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_fe5e012cd11cfb0c3c57983b2a957481d2542398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_0993b61f0909aa728b74be6ed49a9aa266171862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sajith/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2628d1b6eefab7852e44766417e6758a8bc41393.jar" />
+    </item>
+
+</items>

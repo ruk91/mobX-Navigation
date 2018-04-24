@@ -1,0 +1,4 @@
+#Tue Apr 24 09:13:38 IST 2018
+base.0=/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/sajith/Documents/Projects/react-navigation-mobx-example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
